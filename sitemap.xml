@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://residentialconcreteanddesign.com/</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://residentialconcreteanddesign.com/images/hero.jpg</image:loc>
+      <image:caption>Custom stamped concrete patio with outdoor kitchen in San Diego</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://residentialconcreteanddesign.com/images/p1.jpg</image:loc>
+      <image:caption>Outdoor living patio and BBQ in Carlsbad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://residentialconcreteanddesign.com/images/p2.jpg</image:loc>
+      <image:caption>Stamped three-tier concrete patio in San Diego</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://residentialconcreteanddesign.com/images/p3.jpg</image:loc>
+      <image:caption>Custom interior faux stone wall in San Diego</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://residentialconcreteanddesign.com/images/p4.jpg</image:loc>
+      <image:caption>Outdoor kitchen barbecue in Poway, San Diego</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://residentialconcreteanddesign.com/images/p5.jpg</image:loc>
+      <image:caption>Decorative driveway entry in San Diego</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://residentialconcreteanddesign.com/images/p6.jpg</image:loc>
+      <image:caption>Stamped concrete walkway in San Diego</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://residentialconcreteanddesign.com/images/retaining-wall.jpg</image:loc>
+      <image:caption>Stepped concrete block retaining wall in San Diego</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://residentialconcreteanddesign.com/outdoor-living.html</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://residentialconcreteanddesign.com/images/p1.jpg</image:loc>
+      <image:caption>Custom outdoor living patio with BBQ island and stamped concrete in San Diego</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://residentialconcreteanddesign.com/stamped-concrete.html</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://residentialconcreteanddesign.com/images/p2.jpg</image:loc>
+      <image:caption>Stamped concrete three-tier patio with stone-pattern finish in San Diego</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://residentialconcreteanddesign.com/custom-stonework.html</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://residentialconcreteanddesign.com/images/p3.jpg</image:loc>
+      <image:caption>Custom interior faux stone wall in San Diego</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://residentialconcreteanddesign.com/staining-sealing.html</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://residentialconcreteanddesign.com/images/p2.jpg</image:loc>
+      <image:caption>Stained and sealed decorative concrete patio in San Diego</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://residentialconcreteanddesign.com/entry-columns.html</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://residentialconcreteanddesign.com/images/p5.jpg</image:loc>
+      <image:caption>Decorative entry columns and driveway approach in San Diego</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://residentialconcreteanddesign.com/retaining-walls.html</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://residentialconcreteanddesign.com/images/retaining-wall.jpg</image:loc>
+      <image:caption>Stepped concrete block retaining wall along side yard in San Diego</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://residentialconcreteanddesign.com/outdoor-kitchen.html</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://residentialconcreteanddesign.com/images/p4.jpg</image:loc>
+      <image:caption>Outdoor kitchen barbecue in Poway, San Diego</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://residentialconcreteanddesign.com/contact.html</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>

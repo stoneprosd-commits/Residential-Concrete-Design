@@ -1,0 +1,20 @@
+# Internal docs / tooling — never deployed
+CLAUDE.md
+AI/
+.claude/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Backups / dead files
+*-backup.*
+*-original.*
+images/logo-original-backup.png
+
+# Logs / temp
+*.log
+node_modules/
